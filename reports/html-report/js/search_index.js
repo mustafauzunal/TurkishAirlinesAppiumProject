@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Turkish Airlines Appium Test":["specs/example.html"]}};
